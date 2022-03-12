@@ -1,0 +1,13 @@
+body {
+  margin: 150px auto;
+  max-width: 1000px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
